@@ -1,4 +1,38 @@
 {
   "version": 1,
-  "businesses": []
+  "businesses": [
+    {
+      "id": "black_sheep",
+      "category": "barber",
+      "name": {
+        "en": "Black Sheep Barber Shop",
+        "ro": "Black Sheep Barber Shop"
+      },
+      "images": [
+        "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-partners-data/main/v1/images/black_sheep.webp",
+        "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-partners-data/main/v1/images/black_sheep1.webp",
+        "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-partners-data/main/v1/images/black_sheep2.webp",
+        "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-partners-data/main/v1/images/black_sheep3.webp"
+      ],
+      "location": {
+        "lat": 0,
+        "lng": 0
+      },
+      "contact": {
+        "phone": "",
+        "whatsapp": ""
+      },
+      "hours": {
+        "en": "",
+        "ro": ""
+      },
+      "description": {
+        "en": "",
+        "ro": ""
+      },
+      "booking": {
+        "enabled": false
+      }
+    }
+  ]
 }
