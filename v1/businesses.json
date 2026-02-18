@@ -3,7 +3,7 @@
   "businesses": [
     {
       "id": "black_sheep_barber",
-      "beaches": ["nea_moudania_beach"],
+      "beaches": ["nea_moudania_beach", "dionisiou_beach"],
       "category": "business",
       "name": {
         "en": "Black Sheep Barber Shop",
