@@ -9,11 +9,11 @@
         "ro": "Black Sheep Barber Shop"
       },
       "images": [
-        "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-partners-data/main/v1/images/black_sheep.webp",
-        "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-partners-data/main/v1/images/black_sheep1.webp",
-        "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-partners-data/main/v1/images/black_sheep2.webp",
-        "https://raw.githubusercontent.com/gabridim18-lab/halkidiki-partners-data/main/v1/images/black_sheep3.webp"
-      ],
+  "black_sheep.webp",
+  "black_sheep1.webp",
+  "black_sheep2.webp",
+  "black_sheep3.webp"
+],
       "lat": 40.23979499391539,
       "lng": 23.28509622984479,
       "phone": "+306939823420",
