@@ -10,11 +10,11 @@
         "ro": "Black Sheep Barber Shop"
       },
       "images": [
-  "black_sheep.webp",
-  "black_sheep1.webp",
-  "black_sheep2.webp",
-  "black_sheep3.webp"
-],
+        "black_sheep.webp",
+        "black_sheep1.webp",
+        "black_sheep2.webp",
+        "black_sheep3.webp"
+      ],
       "lat": 40.23979499391539,
       "lng": 23.28509622984479,
       "phone": "+306939823420",
@@ -28,37 +28,32 @@
         "ro": "Un barbershop modern în Nea Moudania, perfect pentru fade-uri curate, tunsori clasice și îngrijirea bărbii. Atmosferă prietenoasă, atenție la detalii și un rezultat impecabil de fiecare dată."
       },
       "booking": false
-    }
-  ]
-},
-{
-  "version": 2,
-  "businesses": [
+    },
     {
       "id": "sithonia_transfer",
-      "beaches": ["nikiti_beach", "metamorfossi_beach","nea_krini_beach","perea_beach"],
+      "beaches": ["nikiti_beach", "metamorfossi_beach", "nea_krini_beach", "perea_beach"],
       "category": "business",
       "name": {
         "en": "Sithonia Transfer",
         "ro": "Sithonia Transfer"
       },
       "images": [
-  "sithonia_transfer1.webp",
-  "sithonia_transfer2.webp",
-  "sithonia_transfer3.webp",
-  "sithonia_transfer4.webp"
-],
-      "lat": 40.465077990938426, 
+        "sithonia_transfer1.webp",
+        "sithonia_transfer2.webp",
+        "sithonia_transfer3.webp",
+        "sithonia_transfer4.webp"
+      ],
+      "lat": 40.465077990938426,
       "lng": 22.860933478490434,
       "phone": "+306970647311",
       "whatsapp": "+306970647311",
       "hours": {
-        "en": " Mon-Sat 08:00-21:00; Sunday 08:00-18:00. ",
-        "ro": " Luni-Sambata 08:00-21:00 Duminica 08:00-18:00. "
+        "en": "Mon-Sat 08:00-21:00; Sunday 08:00-18:00.",
+        "ro": "Luni-Sâmbătă 08:00-21:00; Duminică 08:00-18:00."
       },
       "description": {
-       "en": "Premium transfer services in Halkidiki and Sithonia, offering comfortable, safe, and reliable rides. Travel in luxury vehicles with professional local drivers who know the region well, ensuring punctual and smooth journeys to beaches, resorts, and hidden destinations.",
-"ro": "Servicii premium de transfer în Halkidiki și Sithonia, oferind călătorii confortabile, sigure și de încredere. Călătorește cu vehicule de lux și șoferi locali profesioniști care cunosc foarte bine zona, asigurând transferuri punctuale și fără griji către plaje, resorturi și destinații ascunse."
+        "en": "Premium transfer services in Halkidiki and Sithonia, offering comfortable, safe, and reliable rides. Travel in luxury vehicles with professional local drivers who know the region well, ensuring punctual and smooth journeys to beaches, resorts, and hidden destinations.",
+        "ro": "Servicii premium de transfer în Halkidiki și Sithonia, oferind călătorii confortabile, sigure și de încredere. Călătorește cu vehicule de lux și șoferi locali profesioniști care cunosc foarte bine zona, asigurând transferuri punctuale și fără griji către plaje, resorturi și destinații ascunse."
       },
       "booking": true
     }
